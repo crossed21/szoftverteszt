@@ -1,0 +1,8 @@
+C:\Users\Diák\Desktop\feladat\feladat\bin\Debug\feladat.exe.config
+C:\Users\Diák\Desktop\feladat\feladat\bin\Debug\feladat.exe
+C:\Users\Diák\Desktop\feladat\feladat\bin\Debug\feladat.pdb
+C:\Users\Diák\Desktop\feladat\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\feladat\feladat\obj\Debug\feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\feladat\feladat\obj\Debug\feladat.exe
+C:\Users\Diák\Desktop\feladat\feladat\obj\Debug\feladat.pdb
